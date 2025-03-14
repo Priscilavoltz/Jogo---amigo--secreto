@@ -11,11 +11,4 @@ Um jogo simples de **Amigo Secreto** desenvolvido em **JavaScript**, onde é pos
 
 ---
 
-## 🚀 Como Usar
-
-### **1️⃣ Copia o repositório**
-```sh
-git clone https://github.com/seu-usuario/jogo-amigo-secreto.git
-cd jogo-amigo-secreto
-
 Feito por Priscila Voltz ❤️
